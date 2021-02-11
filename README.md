@@ -12,7 +12,7 @@
         border-width: 500px;
         border-radius: 10px;
     }
-    .button{
+    .button {
         border-radius: 4px;
         background-color: #f8f9fa;
         padding-right: 16px;
@@ -115,6 +115,10 @@
         padding-right: 4px;
         padding-left: 30px; 
     }
+    .newg {
+        height: 92px;
+        width: 272px;
+    }
 </style>
 <div class="toprazm">
     <div class="box">
@@ -123,14 +127,16 @@
                 <div class="da">
                     <a class="txt napravo" href="#">Gmail</a>
                     <a class="txt" href="#">Images</a>
-                    <img class="img imgramk" src=>
+                    <div class="">
+                    <img class="img" src="2.jpg">
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
     <center>
-        <img class="sm-img" src=>
+        <img class="sm-img" src="photo.png">
         <div class="oyo ddd">
             <div class="esh">
                 <form class="m bord some">
