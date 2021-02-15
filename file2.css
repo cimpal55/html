@@ -1,0 +1,75 @@
+body {
+    background: #ffffffff
+}
+.fotka {
+    height: 30px;
+    width: 92px;
+}
+.logo {
+    position: absolute;
+    left: -139px;
+    padding-top: 4px;
+    padding-right: 28px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    top: 4px;
+}
+.poiskovik {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline-color: initial;
+    outline-style: none;
+    outline-width: initial;
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 100%;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: -37px;
+    height: 34px;
+    font-size: 16px;
+}
+.poisktxt {
+    font: 16px arial,sans-serif;
+    line-height: 34px;
+    height: 34px !important;
+}
+.poisktxt1 {
+    color: transparent;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 100%;
+    white-space: pre;
+}
+.gggg {
+    position: relative;
+    margin-left: 133px;
+    width: 692px;
+    padding-left: 27px;
+}
+.dd3 {
+    width: auto;
+    max-width: 584px;
+    background: #fff;
+    border-top-color: rgb(223, 225, 229);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(223, 225, 229);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-left-color: rgb(223, 225, 229);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-bottom-color: rgb(223, 225, 229);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height: 44px;
+}
