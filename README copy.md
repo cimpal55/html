@@ -134,6 +134,12 @@
         height: 92px;
         width: 272px;
     }
+    .lll {
+        top: 0px;
+        left: 0px;
+        right: 20px;
+        bottom: 54px;
+    }
 
 </style>
 <div class="toprazm">
@@ -170,7 +176,7 @@
         <img class="sm-img" src="photo.png">
 </center> 
 <div class="p2 p6 p10">
-    <form>
+    <form class="lll">
         <div class="t1">
             <div class="t2">
                 <div class="t3">
