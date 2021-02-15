@@ -1,8 +1,9 @@
 .sm-img {
-    width: 500px;
-    height: 200px;
+    margin-top: 190;
+    width: 272px;
+    height: 92px;
     object-position: center;
-    padding-bottom: 102px;
+    padding-bottom: 20px;
 }
 body {
     background: #ffffffff
@@ -14,18 +15,18 @@ body {
 }
 .button{
     background-color: #f8f9fa;
-    padding-right: 16px;
-    padding-left: 16px;
+    padding-right: 15px;
+    padding-left: 15px;
     font-family: arial,sans-serif;
     font-size: 14px;
     height: 36px;
     border-color: #f8f9fa;
     border-style: solid;
     color: #3c4043;
-    margin-right: 4px;
+    margin-right: 3.9;
     margin-bottom: 11px;
-    margin-left: 4px;
-    min-width: 54px;
+    margin-left: 4;
+    min-width: 53px;
     text-align: center;
     cursor: pointer;
     user-select: none;
@@ -57,14 +58,18 @@ body {
     padding-left: 15px;
 }
 .da {
-    display: inline-block;
-    line-height: 24px;
-    margin-left: 200px;
+    display: flex;
+    align-items: center;
 }
 .txt {
     color: #000000DE;
+    padding-left: 15px;
+    font-size: 13px;
     font-family: arial,sans-serif;
     line-height: 13px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
 }
 .bord {
     margin-top: 37px;
@@ -157,6 +162,7 @@ body {
     width: 20px;
 }
 .s5 {
+    text-decoration: none;
     padding-top: 0px;
     padding-right: 3px;
     padding-bottom: 0px;
@@ -164,19 +170,109 @@ body {
     font-size: 13px;
     font-family: arial,sans-serif;
 }
+.s6 {
+    color: #1a0dab;
+}
 .footer {
-    font-size: 16px;
     padding-top: 15px;
     padding-right: 30px;
     padding-bottom: 15px;
     padding-left: 30px;
     border-bottom: 1px solid #dadce0;
+    font-family: arial,sans-serif;
     font-size: 15px;
     color: rgba(0,0,0,.54);
     left: 0mm;
     right: 0mm;
-    bottom: 10%
-    background: #f2f2f2;
+    bottom: 3.3%;
     box-sizing: border-box;
     width: auto;
+    background: #f2f2f2;
+    position: absolute;
+    text-align: left;
+}
+.footer1 {
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    font-family: arial,sans-serif;
+    font-size: 15px;
+    color: rgba(0,0,0,.54);
+    left: 0mm;
+    right: 0mm;
+    bottom: 0%;
+    box-sizing: border-box;
+    width: auto;
+    background: #f2f2f2;
+    position: absolute;
+    text-align: left;
+}
+.footerinc {
+    display: block;
+    padding: 14.5px;
+    white-space: nowrap;
+}
+.somek {
+    float: left;
+    margin: 0%;
+}
+.about {
+    padding-left: 13px;
+    padding-right: 13px;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    text-decoration: none;
+    color: #70757a
+}
+.advert {
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 13px;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    text-decoration: none;
+    color: #70757a
+}
+.business {
+    padding-left: 13px;
+    padding-right: 13px;
+    font-size: 14px;
+    font-family: arial,sans-serif; 
+    text-decoration: none;
+    color: #70757a
+}
+.Hows {
+    padding-left: 13px;
+    padding-right: 13px;
+    font-size: 14px;
+    font-family: arial,sans-serif; 
+    text-decoration: none;
+    color: #70757a;
+}
+.footerinc1 {
+    text-decoration: none;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    color: rgba(0,0,0,.54);
+    right: 0mm;
+    bottom: 0%;
+    box-sizing: border-box;
+    width: auto;
+    background: #f2f2f2;
+    position: absolute;
+    text-align: right;
+}
+.sl1 {
+    padding-right: 183px;
+}
+.sl2 {
+    padding-left: 13px;
+    padding-right: 115px;
+}
+.sl3 {
+    padding-left: 13px;
+    padding-right: 35px;
 }
