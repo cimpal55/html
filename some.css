@@ -87,35 +87,36 @@ body {
     white-space: nowrap;
 }
 .all1 {
-    padding-right: 20px;
+    padding-right: 35px;
     font-family: arial,sans-serif;
     font-size:  13px;
     color: #5F6368;
     text-decoration: none;
+    margin-left: 195px;
 }
 .all2 {
-    padding-right: 20px;
+    padding-right: 35px;
     font-family: arial,sans-serif;
     font-size:  13px;
     color: #5F6368;
     text-decoration: none;
 }
 .all3 {
-    padding-right: 20px;
+    padding-right: 35px;
     font-family: arial,sans-serif;
     font-size:  13px;
     color: #5F6368;
     text-decoration: none;
 }
 .all4 {
-    padding-right: 20px;
+    padding-right: 35px;
     font-family: arial,sans-serif;
     font-size:  13px;
     color: #5F6368;
     text-decoration: none;
 }
 .all5 {
-    padding-right: 20px;
+    padding-right: 35px;
     font-family: arial,sans-serif;
     font-size:  13px;
     color: #5F6368;
@@ -129,7 +130,8 @@ body {
     text-decoration: none;
 }
 .all7 {
-    padding-left: 170px;
+    padding-right: 25px;
+    padding-left: 130px;
     font-family: arial,sans-serif;
     font-size:  13px;
     color: #5F6368;
@@ -146,7 +148,7 @@ body {
     padding-right: 250px;
 }
 .sett {
-    padding-right: 30px;
+    padding-right: 25px;
 }
 .undline {
     border-bottom: 3px solid #1a73e8;
@@ -168,14 +170,11 @@ body {
     width: 24px;
 }
 .ft2 {
-    height: 44px;
-    width: 44px;
     background: transparent;
     border: none;
     cursor: pointer;
     flex: 0 0 auto;
-    padding-left: 116px;
-    padding-bottom: 120px;
+    margin-left: 116px;
 }
 .daob {
     background: #fff;
@@ -187,10 +186,8 @@ body {
 }
 .class {
     padding-bottom: 15;
-    padding-right: 471;
     border-bottom: 1px solid #ebebeb;
     margin-top: -30px;
-    margin-left: 195px;
 }
 .mojmoj {
     bottom: 26;
@@ -205,7 +202,6 @@ body {
     width: 32px;
 }
 .moj {
-    color #000;
     cursor: pointer;
     text-decoration: none;
 }
@@ -221,3 +217,17 @@ body {
     cursor: pointer;
     text-decoration: none;
 }
+.resul {
+    margin-left: 180;
+    margin-top: 50;
+    font-family: arial,sans-serif;
+    font-size: 14;
+    color: #70757a;
+}
+.rvt {
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    margin-left: 180px;
+    margin-top: 25px;
+}
+.
