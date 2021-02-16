@@ -230,4 +230,64 @@ body {
     margin-left: 180px;
     margin-top: 25px;
 }
-.
+.transl {
+    margin-left: 270;
+    margin-top: -30;
+    font-size: 14;
+    color: #1a0dab;
+    font-family: arial,sans-serif;
+    text-decoration: none;
+}
+.rvtt {
+    font-size: 20px;
+    font-family: arial,sans-serif;
+    color: #1a0dab;
+    font-weight: normal;
+    margin-top: -8;
+    margin-left: 180;
+}
+.xtt1{
+    margin-top: -13;
+    color: #4d5156;
+    margin-left: 181;
+    font-family: arial,sans-serif;
+    font-size: 14;
+}
+.xtt2{
+    margin-top: -8;
+    color: #4d5156;
+    margin-left: 181;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+.xtt3 {
+    margin-left: 180;
+    font-size: 14;
+    margin-top: -9;
+    color: #1a0dab;
+    font-family: arial,sans-serif;
+}
+.rvtt1 {
+    font-size: 20px;
+    font-family: arial,sans-serif;
+    color: #1a0dab;
+    font-weight: normal;
+    margin-top: -8;
+    margin-left: 180;
+}
+.rvtt2 {
+    font-size: 20px;
+    font-family: arial,sans-serif;
+    color: #1a0dab;
+    font-weight: normal;
+    margin-top: -8;
+    margin-left: 180;
+}
+.rvtt3 {
+    font-size: 20px;
+    font-family: arial,sans-serif;
+    color: #1a0dab;
+    font-weight: normal;
+    margin-top: -8;
+    margin-left: 180;
+}
