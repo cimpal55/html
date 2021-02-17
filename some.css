@@ -412,6 +412,7 @@ body {
     position: absolute;
     margin-bottom: -30;
     padding-bottom: 15;
+    border-top: 1px solid #dadce0;
 }
 .helppp {
     padding-right: 30px;
@@ -442,8 +443,10 @@ body {
     position: absolute;
     background: #f2f2f2;
     left: 0;
-    right: 0;
+    padding-bottom: 10;
     padding-left: 170;
+    right: 0;
+    border-top: 1px solid #dadce0;
 }
 .tochka {
     background: #70757a;
@@ -453,4 +456,8 @@ body {
     margin: 6px 4px 9px 0;
     vertical-align: middle;
     width: 10px;
+}
+.smt {
+    color: #3c4043;
+    font-weight: bold;
 }
