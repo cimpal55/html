@@ -63,9 +63,10 @@ body {
 }
 .txt {
     color: #000000DE;
-    padding-left: 15px;
+    padding-left: 0;
     font-size: 13px;
     font-family: arial,sans-serif;
+    padding-right: 20;
     line-height: 13px;
     display: flex;
     align-items: center;
@@ -277,15 +278,13 @@ body {
     padding-right: 35px;
 }
 .mojmoj {
-    bottom: 26;
     background-size: 32px 32px;
     border: 0;
     border-radius: 50%;
-    display: block;
+    display: flex;
     margin: 0;
     position: relative;
     height: 32px;
-    left: 1800;
     width: 32px;
 }
 .moj {
